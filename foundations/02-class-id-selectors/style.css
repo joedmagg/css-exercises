@@ -1,6 +1,7 @@
 .number-1,
 .number-2, 
-.number-3 {
+.number-3,
+.number-5 {
     background-color: rgba(255, 0, 106, 0.733);
     font-family: Verdana, "DejaVu Sans", sans-serif; 
 }
